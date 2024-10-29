@@ -1,0 +1,8 @@
+document_summarizer/
+├── app.py                 # Main Flask application
+├── templates/
+│   └── index.html         # HTML template for the front end
+├── static/
+│   └── style.css          # Custom CSS styling
+├── requirements.txt       # Dependencies file
+└── README.md              # Project readme
