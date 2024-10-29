@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/document_summarizer.git
+git clone https://github.com/hemalathabg/document_summarizer.git
 cd document_summarizer
 Set up the virtual environment:
 
